@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341669580654",
+    "firebase_url": "https://fir-demo-c6cac.firebaseio.com",
+    "project_id": "fir-demo-c6cac",
+    "storage_bucket": "fir-demo-c6cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341669580654:android:21a8c5bde315537a",
+        "android_client_info": {
+          "package_name": "com.example.pc.firebasenotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341669580654-ep56iiuak8gfjs0sf1vrk94cdj3nbdla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDh2hNWxFUSjn1cW2Gxs2xcCws4PahIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
